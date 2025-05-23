@@ -1,0 +1,49 @@
+📋 Cuestionario de Retroalimentación de la plantilla para Webs con IA - Generación de Webs con Plantilla e IA
+
+Gracias por probar esta plantilla. Tu opinión nos ayuda a mejorar la experiencia para otros usuarios como tú.
+
+
+👤 Sobre ti
+1. ¿Tienes conocimientos de programación?
+- [ ] Sí
+- [ ] No
+
+2. ¿Has usado alguna herramienta de IA antes (ChatGPT, Gemini, etc.)?
+- [ ] Sí
+- [ ] No
+
+3. ¿Eres buen conocedor/a de la temática de la web que has creado?
+- [ ] Sí
+- [ ] No
+
+
+📝 Sobre la plantilla
+4. ¿Te resultó fácil de entender la plantilla?
+- [ ] Fácil
+- [ ] Normal
+- [ ] Difícil
+
+5. ¿Pudiste rellenarla completa sin ayuda externa?
+- [ ] Sí
+- [ ] Sí, aunque no necesite rellenar todos los campos
+- [ ] No, me perdí en varias partes
+
+6. ¿Hubo alguna sección que te costó especialmente?
+- [ ] Sí → ¿Cuál? ______________________
+- [ ] No
+
+
+🤖 Uso con IA
+7. ¿Qué IA utilizaste para generar la plantilla o parte de ella?
+- (Escribe aquí...)
+
+
+⚙️ Mejoras y Sugerencias
+8. ¿Qué mejorarías de la plantilla?
+- (Escribe aquí...)
+
+9. ¿Qué parte del proceso te gustaría que fuera más fácil de entender o utilizar?
+- (Escribe aquí...)
+
+10. Comentarios adicionales:
+- (Espacio libre para comentarios adicionales, sugerencias, etc.)
